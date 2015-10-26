@@ -1,0 +1,21 @@
+{
+  "name": "multiplefileupload",
+  "version": "1.0.0",
+  "description": "multiple file uploads any type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nomi ali <noomiali@yahoo.com> (http://www.stackoverflow.com/users/1716709/nomi-ali)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "multer": "^1.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
